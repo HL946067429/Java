@@ -1,2 +1,2 @@
 # Java
-Frist javaobiect
+Frist javaobject
